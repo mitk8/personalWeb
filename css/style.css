@@ -280,12 +280,6 @@ a:hover {
         flex-grow: 2;
     }
 
-    .whiteOnSides {
-        position: fixed;
-        left: 0;
-        top: 0;
-        right: 0;
-    }
   }
 
   @media screen and (min-width: 1000px) {
